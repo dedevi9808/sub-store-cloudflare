@@ -5,6 +5,12 @@
   "workers_dev": true,
   "compatibility_date": "2026-07-08",
   "compatibility_flags": ["nodejs_compat"],
+  "kv_namespaces": [
+    {
+      "binding": "SUB_STORE_DATA",
+      "id": "6e8c5beb4b744e41940ac6fdec72b235"
+    }
+  ],
   "assets": {
     "directory": "frontend/dist",
     "binding": "ASSETS",
